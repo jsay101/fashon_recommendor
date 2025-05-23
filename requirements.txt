@@ -1,0 +1,9 @@
+Flask
+ibm-cos-sdk
+tensorflow
+keras
+numpy
+scikit-learn
+Pillow
+requests
+python-dotenv
